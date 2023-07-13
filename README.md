@@ -1,10 +1,12 @@
 # Vaccination_Booking-ProGrad
 This is the flow of the project
 SignUp Page
-![Screenshot 2023-07-13 122224](https://github.com/vijayantony-web/Vaccination_Booking-ProGrad/assets/82152995/9bb43921-2ea9-4a0b-811b-77220fb92206)
+![Screenshot 2023-07-13 125906](https://github.com/vijayantony-web/Vaccination_Booking-ProGrad/assets/82152995/3bab9d58-d109-4d17-93d2-dd5f6fbe9933)
+
 
 Login Page
-![Screenshot 2023-07-13 122205](https://github.com/vijayantony-web/Vaccination_Booking-ProGrad/assets/82152995/6791a243-a186-4adc-94a5-9f9d82cf9b41)
+![Screenshot 2023-07-13 125916](https://github.com/vijayantony-web/Vaccination_Booking-ProGrad/assets/82152995/b8d25fd8-379d-4cb5-ab83-db326f5b15de)
+
 
 Home Page
 ![Screenshot 2023-07-13 125139](https://github.com/vijayantony-web/Vaccination_Booking-ProGrad/assets/82152995/291b37ca-ac34-40e3-a565-15a4bb9e65cb)

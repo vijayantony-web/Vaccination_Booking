@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+{% for key, inner_dict in data.items %}
+    <li>{{ key }}:
+      <ul>
+        {% for inner_key, value in inner_dict.items %}
+          <li>{{ inner_key }}: {{ value }}</li>
+        {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+    <li class="nav-item">
+      <a class="nav-link" href="{% url 'hello' %}">Home</a>
+    </li>
+{% endblock content %}

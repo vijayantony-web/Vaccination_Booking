@@ -1,0 +1,17 @@
+<form action="/cart/" method="post">
+    {% csrf_token %}
+    <div class="dropdown">
+      <select name="selected_option">
+        <option value="" selected disabled>Select an option</option>
+        <option value="Slot1">Slot1</option>
+        <option value="Slot2">Slot2</option>
+        <option value="Slot3">Slot3</option>
+      </select>
+    </div><br><br><br><br><br><br><br><br><br>
+    <button type="submit">Submit</button>
+    <br><br><br>
+    <li class="nav-item">
+      <a class="nav-link" href="{% url 'hello' %}">Home</a>
+    </li>
+  </form>
+  

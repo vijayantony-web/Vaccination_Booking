@@ -1,4 +1,4 @@
-# Vaccination_Booking-ProGrad
+# Vaccination_Booking
 This is the flow of the project
 SignUp Page
 ![Screenshot 2023-07-13 125906](https://github.com/vijayantony-web/Vaccination_Booking-ProGrad/assets/82152995/3bab9d58-d109-4d17-93d2-dd5f6fbe9933)
